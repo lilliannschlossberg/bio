@@ -1,0 +1,113 @@
+h1 {
+	font-family: 'Amatic SC', cursive;
+	color:#272932;
+
+}
+
+.yellow {
+	background-color:#465c6b;
+}
+.gray {
+	background-color:;
+}
+
+
+
+img {
+	width: 100%;
+}
+
+.padding {
+	padding-left: 210px
+}
+
+.bio {
+	padding-top: 10px
+}
+
+.atake {
+	padding-top: 85px
+}
+
+a {
+	color:white;
+}
+
+.grammy {
+	padding-left: 435px
+}
+
+.grammytext {
+	padding-left: 26px
+}
+
+.soon {
+	padding-left: 80px
+}
+
+.thesauce {
+	background-image: url("img/thesauce.jpeg");
+	font-size: 25px
+	
+}
+
+
+.ataketext {
+	font-size: 18px;
+	line-height: 2;
+}
+
+p {
+
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px
+
+}
+
+.atakepic {
+	padding-top: 25px
+}
+
+.bigsauce {
+	padding-top: 25px
+}
+
+.water {
+	padding-top: 10px
+	padding-bottom: 10px
+}
+
+.thedrip2 {
+	background-image: url("img/thesauce.jpeg");
+	font-size: 15px
+}
+
+.onfoenem {
+	background-image: url("img/1017.jpeg");
+}
+
+body {
+	background-color: d89e00
+}
+
+.flex {
+	padding-left: 70px
+}
+
+.margin {
+	margin-bottom: 10px
+}
+
+.darkuzi {
+	background-image: url("img/Lil-Uzi-Vert-8.jpg");
+	font-size: 15px
+}
+
+
+
+
+
+* {box-sizing:border-box}
+
+
+}
